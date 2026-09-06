@@ -15,7 +15,7 @@
     "agentctl/remediate.yaml": "fb261a87fb09d3b753f0cfdd31720b5550012cf210e4457053a57a3ac281665a",
     "app.py": "91740bef5b370106809733187bf9d3af672afa900e97deae41862cdbb8227edb",
     "remediation/adapter.py": "b4c33eb2f792e2763e82fea022335b1823be5557e6c3b6b4e7d8b27ae74da8c8",
-    "remediation/bootstrap.json": "d2c3a97f3c50c89687ba7f431af48277d24e7f0802b8619cecc80491dbe89a29",
+    "remediation/bootstrap.json": "9c57a6cf8bc6b7408d4087cccf04a2b033ea8c60361c7d85f2e873f20e469fa1",
     "remediation/bootstrap.py": "b741fbc5c8555c4e36fe5864c5328cfdc78337647bd5bdc88212c46d70a404d6",
     "remediation/build_workflows.py": "d48bbe91bd7225bc2ec0e9f190e94e6fa8993d5701697650b995f849e3997ac2",
     "remediation/contract.json": "58ef6804dfe8622801b150a370a4054a7818aa8389785a2bb07eee3f8688c62a",
@@ -32,10 +32,10 @@
     "requirements.lock": "e075febe2ef4aac45e9631ea4d7556ef794b11650f1c0ff05d18d2b8b4f4cab4",
     "tests/test_adapter.py": "fd3cd38729635fe51ba159a35bf17c256bc04ec34281c5aac6fe075ccdff6a39",
     "tests/test_app.py": "86044efa981fd576d407c07ce95be36e354dd59835d85f4c76dd006e7ad2b6e7",
-    "tests/test_contracts.py": "f4a633549135a883e3e63547e12eca6970b66432907147e88b43185f382321da"
+    "tests/test_contracts.py": "fc9fce2dc4bff9447b19b353d3bc23b3892a842e3687dda580a780cc797ee126"
   },
   "frameworkPackagePath": "examples/devops/21-container-remediation",
-  "frameworkSourceSha": "46a8923328e5730fe508140b419c130d2a2884e8",
+  "frameworkSourceSha": "68e5b8e738f099487c7af9fe1b043ab2c1a5d0b0",
   "schemaVersion": 1,
   "sourceDirty": false
 }
