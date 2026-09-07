@@ -15,11 +15,11 @@
     "agentctl/remediate.yaml": "ebc9e48eaa77fb9ee27de6c1552df241cf47953af932ef3eb8fb058ecc7fc993",
     "app.py": "91740bef5b370106809733187bf9d3af672afa900e97deae41862cdbb8227edb",
     "remediation/adapter.py": "b4c33eb2f792e2763e82fea022335b1823be5557e6c3b6b4e7d8b27ae74da8c8",
-    "remediation/bootstrap.json": "c22f5f7f95b1ea245cb12c27034d95604b3842fea3872d717c4bd5e84141313f",
+    "remediation/bootstrap.json": "d8e646ae865fefb3f8abcbdd10b42de6af3cc3763d3dc6db70049e13d55fd794",
     "remediation/bootstrap.py": "b741fbc5c8555c4e36fe5864c5328cfdc78337647bd5bdc88212c46d70a404d6",
     "remediation/build_workflows.py": "90d255b91f02a4e76b283d2a1c713f24a1fe7e5e83be87b6634b75dbefe588e9",
     "remediation/contract.json": "58ef6804dfe8622801b150a370a4054a7818aa8389785a2bb07eee3f8688c62a",
-    "remediation/contract_check.py": "6428e23fe39027d8d915801a28272679ca0685ac9efb8b64048b1760f609ce7a",
+    "remediation/contract_check.py": "0633f69c7ac5d9978c83d0895c1b91d33e7d57ebb51f125659611b3a0cc84c48",
     "remediation/export.py": "99f2a44ce1bcdb22822bc35296d916deca8ef399d681dad387f2dee948839a29",
     "remediation/preflight.py": "e4bbc6bc4d3d082f4fda132649581448b2140868fc67db64c1f1e27d55b61911",
     "remediation/publisher.py": "5188ffe66aa42f9ab304e4830ee5db81d6cae0cf8465022db43aa7d09942447a",
@@ -35,7 +35,7 @@
     "tests/test_contracts.py": "484ce9748e1f0df5e686440ec184ae700c22ba90263f7cd22e36c1d87153e5b6"
   },
   "frameworkPackagePath": "examples/devops/21-container-remediation",
-  "frameworkSourceSha": "458ba2536d2d0d1a67b14f5d77df77a1a877b529",
+  "frameworkSourceSha": "9640102855bc513e2849d0a08344c1f13e50028a",
   "schemaVersion": 1,
   "sourceDirty": false
 }
