@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "frameworkRepository": "opensourceops/agentctl",
   "allowedFrameworkShas": [
-    "ed604369fb73a3d1bba65d8a2026927f59b14e97"
+    "458ba2536d2d0d1a67b14f5d77df77a1a877b529"
   ],
   "toolingRegistry": "docker.io/opensourceops/agentctl",
   "repository": "Ompragash/agentctl-remediation-demo"

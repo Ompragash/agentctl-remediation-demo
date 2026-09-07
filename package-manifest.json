@@ -11,13 +11,13 @@
     "agentctl/instructions/analyze.md": "1e3e3cac02533fc09bbf5e9397b296e558841fedb8393fa8cea50624b5b1601a",
     "agentctl/instructions/implement.md": "44d3ccf0d4826c2b5a3150638b349cdf8aa8d4b5a26726f2f4f16af0e532dfab",
     "agentctl/instructions/preflight.md": "cfdad0d09753c19b7ee6160e19285eaa6b924e1631badaf6e99821015823ed9a",
-    "agentctl/preflight.yaml": "c95cc42afee49d0d766260f8dc245a718539816f2eede04664dab89e449c34c5",
-    "agentctl/remediate.yaml": "93dca74e9dacf73208fb9d595d4190f7816c461a49c2c8cd748fe56aa55cd815",
+    "agentctl/preflight.yaml": "6c6143f1bbe1608fcf9e2120152ce15cf5b9964c2d0f64239f9650a1dfc2f4d6",
+    "agentctl/remediate.yaml": "ebc9e48eaa77fb9ee27de6c1552df241cf47953af932ef3eb8fb058ecc7fc993",
     "app.py": "91740bef5b370106809733187bf9d3af672afa900e97deae41862cdbb8227edb",
     "remediation/adapter.py": "b4c33eb2f792e2763e82fea022335b1823be5557e6c3b6b4e7d8b27ae74da8c8",
-    "remediation/bootstrap.json": "446107082c4f81593473b231e24a0a9c719611c3b0dc60a0da49ff454eb0a6cd",
+    "remediation/bootstrap.json": "c22f5f7f95b1ea245cb12c27034d95604b3842fea3872d717c4bd5e84141313f",
     "remediation/bootstrap.py": "b741fbc5c8555c4e36fe5864c5328cfdc78337647bd5bdc88212c46d70a404d6",
-    "remediation/build_workflows.py": "aa58630d73c35a7b73ce6a8f0edc3a43ae65ba999342756cc66af5792ce8f2b8",
+    "remediation/build_workflows.py": "90d255b91f02a4e76b283d2a1c713f24a1fe7e5e83be87b6634b75dbefe588e9",
     "remediation/contract.json": "58ef6804dfe8622801b150a370a4054a7818aa8389785a2bb07eee3f8688c62a",
     "remediation/contract_check.py": "6428e23fe39027d8d915801a28272679ca0685ac9efb8b64048b1760f609ce7a",
     "remediation/export.py": "99f2a44ce1bcdb22822bc35296d916deca8ef399d681dad387f2dee948839a29",
@@ -32,10 +32,10 @@
     "requirements.lock": "e075febe2ef4aac45e9631ea4d7556ef794b11650f1c0ff05d18d2b8b4f4cab4",
     "tests/test_adapter.py": "fd3cd38729635fe51ba159a35bf17c256bc04ec34281c5aac6fe075ccdff6a39",
     "tests/test_app.py": "86044efa981fd576d407c07ce95be36e354dd59835d85f4c76dd006e7ad2b6e7",
-    "tests/test_contracts.py": "f268f1b3505e57c57933db3c61d755dbf53208db3f995877c670d21b1bb3d52e"
+    "tests/test_contracts.py": "484ce9748e1f0df5e686440ec184ae700c22ba90263f7cd22e36c1d87153e5b6"
   },
   "frameworkPackagePath": "examples/devops/21-container-remediation",
-  "frameworkSourceSha": "ed604369fb73a3d1bba65d8a2026927f59b14e97",
+  "frameworkSourceSha": "458ba2536d2d0d1a67b14f5d77df77a1a877b529",
   "schemaVersion": 1,
   "sourceDirty": false
 }
