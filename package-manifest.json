@@ -15,7 +15,7 @@
     "agentctl/remediate.yaml": "ebc9e48eaa77fb9ee27de6c1552df241cf47953af932ef3eb8fb058ecc7fc993",
     "app.py": "91740bef5b370106809733187bf9d3af672afa900e97deae41862cdbb8227edb",
     "remediation/adapter.py": "b4c33eb2f792e2763e82fea022335b1823be5557e6c3b6b4e7d8b27ae74da8c8",
-    "remediation/bootstrap.json": "93e4d85c40a32635fae220d4f4679de5b1e0f7d8976ad3c755797ec4aca1d97c",
+    "remediation/bootstrap.json": "56348225ce83335e84d46abdad1ca160516e6a0d571fe7dad93f8a7457dabe91",
     "remediation/bootstrap.py": "b741fbc5c8555c4e36fe5864c5328cfdc78337647bd5bdc88212c46d70a404d6",
     "remediation/build_workflows.py": "d1e205755d8600b6547f0510d6ab4e9461aeaa962b3541862495034edc32482f",
     "remediation/contract.json": "58ef6804dfe8622801b150a370a4054a7818aa8389785a2bb07eee3f8688c62a",
@@ -35,7 +35,7 @@
     "tests/test_contracts.py": "3cdf397128f4ba9139f065022e3aa104ae3366a38170304d3adc89c0f28f23a0"
   },
   "frameworkPackagePath": "examples/devops/21-container-remediation",
-  "frameworkSourceSha": "c223d012727a75de62112923d4da8befbe2068f2",
+  "frameworkSourceSha": "0d4542cccdbd22cb96e3dec25cdffb66d0938ced",
   "schemaVersion": 1,
   "sourceDirty": false
 }
